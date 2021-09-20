@@ -1,5 +1,6 @@
 # HPC-Server-Issue-Tracker
 Post any questions, bugs, and feature/update requests here.
+Contact: <insert HPC email here>@morehouse.edu
 
 ## Posting an Issue
 In the top bar find "Issues". Click that to be taken to the Issues page, where all open bugs and feature requests for the HPC server can be seen. Before posting your own issue search to see if anyone else has had a similar problem. If no duplicate issues exist then click the green "New Issue" button in the top right corner. Here you can select from some premade templates:
